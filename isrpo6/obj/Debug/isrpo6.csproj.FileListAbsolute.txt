@@ -1,0 +1,10 @@
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\bin\Debug\isrpo6.exe.config
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\bin\Debug\isrpo6.exe
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\bin\Debug\isrpo6.pdb
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\obj\Debug\isrpo6.csproj.AssemblyReference.cache
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\obj\Debug\isrpo6.Form1.resources
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\obj\Debug\isrpo6.Properties.Resources.resources
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\obj\Debug\isrpo6.csproj.GenerateResource.cache
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\obj\Debug\isrpo6.csproj.CoreCompileInputs.cache
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\obj\Debug\isrpo6.exe
+C:\Users\belih\source\repos\2024.2\isrpo6\isrpo6\obj\Debug\isrpo6.pdb
